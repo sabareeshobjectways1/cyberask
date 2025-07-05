@@ -1,0 +1,33 @@
+{
+  "name": "cyberask",
+  "version": "1.1.0",
+  "description": "A robust HTTP client alternative to Axios with advanced retry and network retry logics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "client",
+    "fetch",
+    "axios",
+    "retry",
+    "network",
+    "promise",
+    "javascript",
+    "universal"
+  ],
+  "author": "Sabareesh R <sabareeshs363@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/cyberask.git"
+  },
+  "homepage": "https://github.com/yourusername/cyberask#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/cyberask/issues"
+  },
+  "dependencies": {
+    "cyberask": "^1.0.0"
+  }
+}
